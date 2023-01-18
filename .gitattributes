@@ -1,3 +1,4 @@
-* linguist-vendored
-*.python linguist-vendored=false
-*.c# linguist-vendored=false
+*.python linguist-detectable=true
+*.cs linguist-detectable=true
+*.html linguist-detectable=false
+*.xml linguist-detectable=false
