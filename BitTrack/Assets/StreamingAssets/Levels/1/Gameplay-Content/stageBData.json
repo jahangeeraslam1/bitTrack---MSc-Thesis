@@ -1,0 +1,8 @@
+{
+    "stageLetter" : "B",
+    "stageQuestion" : "What is the calculation called which miners undertake to add a block to the blockchain?",
+    "stageAnswers" : ["Proof of Work","Fibbonaci","Hashgen", "Proof of Wallet", "Cipher", "BlockCalc"],
+    "correctAnswers" : ["Proof of Work"],
+    "stageImageName" : "level1StageBImage",
+    "orderEnabled" : false
+}

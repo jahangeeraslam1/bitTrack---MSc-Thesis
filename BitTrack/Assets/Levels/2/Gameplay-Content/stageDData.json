@@ -1,0 +1,8 @@
+{
+    "stageLetter" : "D",
+    "stageQuestion" : "Hannah is having trouble figuring out what two things combined make up a tx file. Help her out and tell her what the two things are (in the order they are created) so that she can add the transaction from Stage C into a block and mine it to the blockchain.",
+    "stageAnswers" : ["Transaction Message","Transaction Key", "Digital Signature", "Mining Address", "Wallet Hash", "Mining Key"],
+    "correctAnswers" : ["Transaction Message", "Digital Signature" ],
+    "stageImageName" : "level1StageDImage",
+    "orderEnabled" : true
+}

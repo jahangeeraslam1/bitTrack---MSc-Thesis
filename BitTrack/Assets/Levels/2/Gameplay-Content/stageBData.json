@@ -1,0 +1,8 @@
+{
+    "stageLetter" : "B",
+    "stageQuestion" : "Laura wants is trying to become a bitcoin miner however she can not find the location of the tx files. on a node where are the tx files held before they are confirmed?",
+    "stageAnswers" : ["Data Pool","Bitcoin Pool","Memory Pool", "RAM Memory", "ROM Memory"],
+    "correctAnswers" : ["Memory Pool"],
+    "stageImageName" : "level1StageBImage",
+    "orderEnabled" : false
+}

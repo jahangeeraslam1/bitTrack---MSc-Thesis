@@ -1,0 +1,8 @@
+{
+    "stageLetter" : "A",
+    "stageQuestion" : "Lewis wants to check which stage his bitcoin transaction is at, but he has forgotten the three stages of bitcoin transactions. Help him out by listing the three stages in the order they occur.",
+    "stageAnswers" : ["Sending","Signing","Checking","Confirming", "Assigning","Broadcasting"],
+    "correctAnswers" : ["Signing","Broadcasting","Confirming"],
+    "stageImageName" : "level1StageAImage",
+    "orderEnabled" : true
+}

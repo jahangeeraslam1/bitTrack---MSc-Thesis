@@ -1,0 +1,8 @@
+{
+    "stageLetter" : "C",
+    "stageQuestion" : "Stewart has paid Madison in Bitcoin for to buy her car, but Madison wants to ensure the payment has been fully processed before handing over the keys. How many confirmations should a transaction have before it is considered as fully processed? ",
+    "stageAnswers" : ["Four","Three","Two", "Zero", "Ten", "Six"],
+    "correctAnswers" : ["Six"],
+    "stageImageName" : "level1StageCImage",
+    "orderEnabled" : false
+}

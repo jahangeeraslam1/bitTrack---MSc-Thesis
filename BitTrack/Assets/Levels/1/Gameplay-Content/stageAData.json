@@ -1,0 +1,8 @@
+{
+    "stageLetter" : "A",
+    "stageQuestion" : "What can be used to identify a block?",
+    "stageAnswers" : ["Block Hash","Genesis Key","Block Number","Wallet", "Public Key"],
+    "correctAnswers" : ["Block Hash"],
+    "stageImageName" : "level1StageAImage",
+    "orderEnabled" : false
+}

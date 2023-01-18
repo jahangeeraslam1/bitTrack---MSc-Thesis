@@ -1,0 +1,8 @@
+{
+    "stageLetter" : "C",
+    "stageQuestion" : "What is the term for a computer which has joined and downloaded a copy of a blockchain?",
+    "stageAnswers" : ["Fork","Data Point", "Vertex","Node", "Child"],
+    "correctAnswers" : ["Node"],
+    "stageImageName" : "level1StageCImage",
+    "orderEnabled" : false
+}
