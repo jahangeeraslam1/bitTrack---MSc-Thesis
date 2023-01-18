@@ -1,3 +1,0 @@
-*.python linguist-detectable=true
-*.cs linguist-detectable=true
-*.aspx linguist-detectable=false
